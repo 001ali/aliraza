@@ -1,0 +1,18 @@
+#demo{
+	margin: 0;
+	padding: 0;
+	font-weight: Century Gothic;
+	background: url("../wall.jpg")no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.ali
+{
+	height: 75vh;
+	width: 30%;
+	background: rgba(0, 0, 0, .6);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
